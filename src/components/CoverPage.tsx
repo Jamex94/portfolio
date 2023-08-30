@@ -19,7 +19,7 @@ function CoverPage ({ scrollToProjects }: Props): JSX.Element {
             <img src='/images/pfp-color.webp' alt='My pfp' className='pfp-image color-image' />
           </div>
         </div>
-        <h3 className='job-title'>Noel Lopez / Software Developer</h3>
+        <h3 className='job-title'>James Trudeau / Software Developer</h3>
         <button className='scroll-indicator' onClick={scrollToProjects}>
           <span>Projects</span>
           <ArrowDownIcon />
