@@ -15,7 +15,7 @@ export const projectsList: ProjectType[] = [
     image: 'wordle.webp',
     codeUrl: 'https://github.com/Jamex94/pato-click',
     demoUrl: 'https://pato-click-jamex.vercel.app',
-    tools: ['JSX', 'React', 'CSS', 'Vercel']
+    tools: ['Nuxt 3', 'Uno CSS', 'Vercel']
   },
   {
     name: 'Dev Blog',
